@@ -1,0 +1,29 @@
+.nav
+{
+    background-color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+.logo
+{
+    color: orange;
+    font-size: 25px;
+    margin-right: 200px;
+
+}
+.search input
+{
+    padding: 5px;
+    
+
+}
+.search button
+{
+    background-color: yellow;
+    border: none;
+    padding: 5px 10px;
+    color: white;
+    
+}
